@@ -6,3 +6,9 @@ Generating random inspirational messages
 *Then got your coffee
 
 *You **work**!
+
+## Setup
+
+1. Clone the project
+
+2. type node app.js to start it
